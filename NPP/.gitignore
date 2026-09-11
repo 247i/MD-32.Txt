@@ -1,0 +1,10 @@
+
+*/config.xml
+*/localization/*.xml
+*.bak
+*/session.xml
+*/license.txt
+*/readme.txt
+*/config.xml
+*/nppLogNulContentCorruptionIssue.log
+*/backup
